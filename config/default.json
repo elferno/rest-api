@@ -1,0 +1,11 @@
+{
+	"Server": {
+		"port": 3000
+	},
+	"Client": {
+		"basedir": "client"
+	},
+	"REST": {
+		"contacts": "/api/contacts"
+	}
+}
