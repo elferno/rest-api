@@ -11,7 +11,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 // db data
 let CONTACTS = [
-	{id: 1, name: 'Elijah', value: 'noob', marked: false}
+	{id: 1, name: 'Elijah', value: 'dev', marked: false}
 ];
 
 // prefs
